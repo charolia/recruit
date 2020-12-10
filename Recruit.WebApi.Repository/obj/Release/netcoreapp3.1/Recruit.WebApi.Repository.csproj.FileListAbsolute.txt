@@ -1,0 +1,9 @@
+C:\Users\DeedVault\Desktop\Daily\Test\ASB Bank\Backend\recruit-backend-master\Recruit\Recruit.WebApi.Repository\bin\Release\netcoreapp3.1\Recruit.WebApi.Repository.deps.json
+C:\Users\DeedVault\Desktop\Daily\Test\ASB Bank\Backend\recruit-backend-master\Recruit\Recruit.WebApi.Repository\bin\Release\netcoreapp3.1\Recruit.WebApi.Repository.dll
+C:\Users\DeedVault\Desktop\Daily\Test\ASB Bank\Backend\recruit-backend-master\Recruit\Recruit.WebApi.Repository\bin\Release\netcoreapp3.1\Recruit.WebApi.Repository.pdb
+C:\Users\DeedVault\Desktop\Daily\Test\ASB Bank\Backend\recruit-backend-master\Recruit\Recruit.WebApi.Repository\obj\Release\netcoreapp3.1\Recruit.WebApi.Repository.AssemblyInfoInputs.cache
+C:\Users\DeedVault\Desktop\Daily\Test\ASB Bank\Backend\recruit-backend-master\Recruit\Recruit.WebApi.Repository\obj\Release\netcoreapp3.1\Recruit.WebApi.Repository.AssemblyInfo.cs
+C:\Users\DeedVault\Desktop\Daily\Test\ASB Bank\Backend\recruit-backend-master\Recruit\Recruit.WebApi.Repository\obj\Release\netcoreapp3.1\Recruit.WebApi.Repository.csproj.CoreCompileInputs.cache
+C:\Users\DeedVault\Desktop\Daily\Test\ASB Bank\Backend\recruit-backend-master\Recruit\Recruit.WebApi.Repository\obj\Release\netcoreapp3.1\Recruit.WebApi.Repository.dll
+C:\Users\DeedVault\Desktop\Daily\Test\ASB Bank\Backend\recruit-backend-master\Recruit\Recruit.WebApi.Repository\obj\Release\netcoreapp3.1\Recruit.WebApi.Repository.pdb
+C:\Users\DeedVault\Desktop\Daily\Test\ASB Bank\Backend\recruit-backend-master\Recruit\Recruit.WebApi.Repository\obj\Release\netcoreapp3.1\Recruit.WebApi.Repository.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\DeedVault\Desktop\Daily\Test\ASB Bank\Backend\recruit-backend-master\Recruit\Recruit.WebApi.Services\bin\Release\netcoreapp3.1\Recruit.WebApi.Services.deps.json
+C:\Users\DeedVault\Desktop\Daily\Test\ASB Bank\Backend\recruit-backend-master\Recruit\Recruit.WebApi.Services\bin\Release\netcoreapp3.1\Recruit.WebApi.Services.dll
+C:\Users\DeedVault\Desktop\Daily\Test\ASB Bank\Backend\recruit-backend-master\Recruit\Recruit.WebApi.Services\bin\Release\netcoreapp3.1\Recruit.WebApi.Services.pdb
+C:\Users\DeedVault\Desktop\Daily\Test\ASB Bank\Backend\recruit-backend-master\Recruit\Recruit.WebApi.Services\bin\Release\netcoreapp3.1\Recruit.WebApi.Repository.dll
+C:\Users\DeedVault\Desktop\Daily\Test\ASB Bank\Backend\recruit-backend-master\Recruit\Recruit.WebApi.Services\bin\Release\netcoreapp3.1\Recruit.WebApi.Repository.pdb
+C:\Users\DeedVault\Desktop\Daily\Test\ASB Bank\Backend\recruit-backend-master\Recruit\Recruit.WebApi.Services\obj\Release\netcoreapp3.1\Recruit.WebApi.Services.csprojAssemblyReference.cache
+C:\Users\DeedVault\Desktop\Daily\Test\ASB Bank\Backend\recruit-backend-master\Recruit\Recruit.WebApi.Services\obj\Release\netcoreapp3.1\Recruit.WebApi.Services.AssemblyInfoInputs.cache
+C:\Users\DeedVault\Desktop\Daily\Test\ASB Bank\Backend\recruit-backend-master\Recruit\Recruit.WebApi.Services\obj\Release\netcoreapp3.1\Recruit.WebApi.Services.AssemblyInfo.cs
+C:\Users\DeedVault\Desktop\Daily\Test\ASB Bank\Backend\recruit-backend-master\Recruit\Recruit.WebApi.Services\obj\Release\netcoreapp3.1\Recruit.WebApi.Services.csproj.CoreCompileInputs.cache
+C:\Users\DeedVault\Desktop\Daily\Test\ASB Bank\Backend\recruit-backend-master\Recruit\Recruit.WebApi.Services\obj\Release\netcoreapp3.1\Recruit.WebApi.Services.csproj.CopyComplete
+C:\Users\DeedVault\Desktop\Daily\Test\ASB Bank\Backend\recruit-backend-master\Recruit\Recruit.WebApi.Services\obj\Release\netcoreapp3.1\Recruit.WebApi.Services.dll
+C:\Users\DeedVault\Desktop\Daily\Test\ASB Bank\Backend\recruit-backend-master\Recruit\Recruit.WebApi.Services\obj\Release\netcoreapp3.1\Recruit.WebApi.Services.pdb

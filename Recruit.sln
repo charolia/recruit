@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recruit.WebApi", "Recruit.WebApi\Recruit.WebApi.csproj", "{7F1FC077-568C-4AF1-937E-639D87FF0575}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recruit.WebApi.Repository", "Recruit.WebApi.Repository\Recruit.WebApi.Repository.csproj", "{09A529BE-1B02-4F70-B681-C8A6B0043E82}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recruit.WebApi.Services", "Recruit.WebApi.Services\Recruit.WebApi.Services.csproj", "{92EA6EB6-72BA-4F72-9AC5-7AE3A98156C1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{D0F3557C-3B8A-4099-A628-6F9CECA788BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recruit.WebApi.Tests", "Recruit.WebApi.Tests\Recruit.WebApi.Tests.csproj", "{AEDB9045-5DF2-4A79-8ABB-871A783E95B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recruit.Web", "Recruit.Web\Recruit.Web.csproj", "{13367236-9254-4314-92EA-E4798BB9795F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F1FC077-568C-4AF1-937E-639D87FF0575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F1FC077-568C-4AF1-937E-639D87FF0575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F1FC077-568C-4AF1-937E-639D87FF0575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F1FC077-568C-4AF1-937E-639D87FF0575}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09A529BE-1B02-4F70-B681-C8A6B0043E82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09A529BE-1B02-4F70-B681-C8A6B0043E82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09A529BE-1B02-4F70-B681-C8A6B0043E82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09A529BE-1B02-4F70-B681-C8A6B0043E82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92EA6EB6-72BA-4F72-9AC5-7AE3A98156C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92EA6EB6-72BA-4F72-9AC5-7AE3A98156C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92EA6EB6-72BA-4F72-9AC5-7AE3A98156C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92EA6EB6-72BA-4F72-9AC5-7AE3A98156C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEDB9045-5DF2-4A79-8ABB-871A783E95B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEDB9045-5DF2-4A79-8ABB-871A783E95B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEDB9045-5DF2-4A79-8ABB-871A783E95B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEDB9045-5DF2-4A79-8ABB-871A783E95B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13367236-9254-4314-92EA-E4798BB9795F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13367236-9254-4314-92EA-E4798BB9795F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13367236-9254-4314-92EA-E4798BB9795F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13367236-9254-4314-92EA-E4798BB9795F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AEDB9045-5DF2-4A79-8ABB-871A783E95B0} = {D0F3557C-3B8A-4099-A628-6F9CECA788BE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97D51269-7531-401A-8096-F0B5F5631DB3}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wbPGtnKXnZUrYmzHq/yO4PBR6jt0fVQaBb15/pNuOY33PwNIE8AyqvH0JNRp3w4YAyr67O5Hz0a47TNd+RKDWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DeedVault\\Desktop\\Daily\\Test\\ASB Bank\\Backend\\recruit-backend-master\\Recruit\\Recruit.WebApi.Repository\\Recruit.WebApi.Repository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DeedVault\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

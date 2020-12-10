@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Recruit.WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:Recruit.WebApi.Controllers.CreditCardController.GetAllAsync">
+            <summary>
+            Returns all the credit cards.
+            </summary>
+            <returns>Collection of <see cref="T:Recruit.WebApi.Services.Models.CreditCardDto"/></returns>
+        </member>
+        <member name="M:Recruit.WebApi.Controllers.CreditCardController.GetByCCNumberAsync(System.String)">
+            <summary>
+            Returns all the credit cards.
+            </summary>
+            <returns>Collection of <see cref="T:Recruit.WebApi.Services.Models.CreditCardDto"/></returns>
+        </member>
+    </members>
+</doc>

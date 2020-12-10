@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8bR7eit6LZOM3x/tOyIgQq1RJlTmjTiPvMuVOD5gsmcubfY1eD7vYw19YTLal2v95GPHxsuo82n7PHz3xrranw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DeedVault\\Desktop\\Daily\\Test\\ASB Bank\\Backend\\recruit-backend-master\\Recruit\\Recruit.WebApi.Services\\Recruit.WebApi.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DeedVault\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\DeedVault\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\DeedVault\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\DeedVault\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
